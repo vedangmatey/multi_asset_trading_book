@@ -17,13 +17,13 @@ across asset classes.
 
 ---
 
-##  Documentation
+## Documentation
 
-- [Data & Architecture](data_and_architecture.md)
-- [Mathematical Framework](mathematical_framework.md)
-- [How to Run](how_to_run.md)
-- [How to Use the Dashboard](how_to_use.md)
-- [Deployment Notes](deployment_notes.md)
+- 📐 [Data & Architecture](docs/data_and_architecture.md)
+- 🚀 [How to Run](docs/how_to_run.md)
+- 🧭 [How to Use](docs/how_to_use.md)
+- 🧮 [Mathematical Framework](docs/mathematical_framework.md)
+- ☁️ [Deployment Notes](docs/deployment_notes.md)
 
 ---
 
